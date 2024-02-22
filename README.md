@@ -6,7 +6,7 @@ Python 🐍 and JavaScript 👨🏾‍💻 Developer
 
 Abiodun is an Innovative, Self-driven, and Multi-Talented Software Developer with 5+ years of experience building scalable applications using relevant, good practices and well-structured architectures, consistently rewarded for success in planning and operational improvements with an excellent leadership record of leading development teams in enterprise-wide development projects. His strongest skills are Python and Django with experience in Flutter, NodeJS, Javascript, ReactJS, Docker, Git, Software development, and Documentation.
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm based in Aachen, Germany 🇩🇪
 * ✉️  You can contact me at [sotundeabiodun00@gmail.com](mailto:sotundeabiodun00@gmail.com)
 * 🧠  I'm learning Blockchain Development
 * 🤝  I'm open to collaborating on Interesting Projects
